@@ -94,7 +94,7 @@ class LuigiPiscopo:
 
 <div align="center">
   <a href="https://github.com/LuigiPiscopo">
-    <img src="https://img.shields.io/badge/Profile%20Views-%234E69C8.svg?&style=for-the-badge&logo=eye&logoColor=white&label=PROFILE+VIEWS&color=blueviolet" alt="Profile Views" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=LuigiPiscopo&style=for-the-badge&color=blueviolet" alt="Profile Views" height="30" />
   </a>
   
   ### "Il codice è poesia in movimento" 💻✨
