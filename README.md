@@ -54,8 +54,9 @@
 ## 📊 Statistiche GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuigiPiscopo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuigiPiscopo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuigiPiscopo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuigiPiscopo&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiPiscopo&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
 ## 💼 Competenze Chiave
