@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Luigi Piscopo
@@ -54,9 +55,11 @@
 ## 📊 Statistiche GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuigiPiscopo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuigiPiscopo&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiPiscopo&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuigiPiscopo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" max-width="400px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuigiPiscopo&theme=tokyonight" alt="GitHub Streak" width="100%" max-width="400px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiPiscopo&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" max-width="400px" />
+  </div>
 </div>
 
 ## 💼 Competenze Chiave
