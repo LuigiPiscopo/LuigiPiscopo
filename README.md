@@ -1,37 +1,93 @@
-# 👋 Ciao, sono Luigi Piscopo
-
-## 💻 Junior Full Stack Developer
-Appassionato sviluppatore con forte attitudine al problem-solving e approccio creativo alla scrittura del codice. Mi concentro sullo sviluppo di soluzioni intuitive, funzionali e performanti, con particolare attenzione all'esperienza utente.
-
-## 🛠 Stack Tecnologico
 <div align="center">
+  
+  # Luigi Piscopo
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Creative+Coder)](https://git.io/typing-svg)
+  
+  <p align="center">
+    <a href="mailto:gino-piscopo-@live.it"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail" /></a>
+    <a href="https://www.linkedin.com/in/luigi-piscopo-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://github.com/LuigiPiscopo"><img src="https://img.shields.io/github/followers/LuigiPiscopo?label=Follow&style=social" /></a>
+  </p>
+
+</div>
+
+## 👨‍💻 Chi Sono
+
+> Junior Full Stack Developer con una passione per la creazione di soluzioni software innovative ed efficienti. Mi distinguo per un approccio analitico al problem-solving e una costante ricerca dell'eccellenza tecnica.
+
+- 🎓 Attualmente specializzando in **Coding AI** presso **Aulab Srl**
+- 🌱 In continuo apprendimento e crescita professionale
+- 🤝 Aperto a collaborazioni su progetti innovativi
+- 🎯 Obiettivo: Creare software che faccia la differenza
+
+## 🛠️ Tech Stack
+
+### Linguaggi di Programmazione
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+### Framework & Tecnologie
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+</p>
+
+### Database
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+## 📊 Statistiche GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuigiPiscopo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuigiPiscopo&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 📊 Le mie statistiche GitHub
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=LuigiPiscopo&show_icons=true&theme=radical)
+## 💼 Competenze Chiave
 
-## 🌱 Attualmente
-- 📚 Sto frequentando Hackademy+ con specializzazione in Coding AI presso Aulab Srl
-- 💡 Sto espandendo le mie competenze in AI e sviluppo web
-- 🤝 Sono interessato a collaborare su progetti innovativi
+```python
+class LuigiPiscopo:
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.skills = {
+            "frontend": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+            "backend": ["PHP", "Python", "C#", "Laravel"],
+            "database": ["MySQL", "Database Design"],
+            "soft_skills": [
+                "Problem Solving",
+                "Team Collaboration",
+                "Quick Learning",
+                "Creative Thinking"
+            ]
+        }
+        
+    def current_focus(self):
+        return "Specializzazione in AI Development"
+```
 
 ## 📫 Contattami
-- 📧 Email: gino-piscopo-@live.it
-- 💼 LinkedIn: [Luigi Piscopo](https://www.linkedin.com/in/luigi-piscopo-developer)
-- 🌐 GitHub: [LuigiPiscopo](https://github.com/LuigiPiscopo)
 
-## 🎯 Obiettivi
-- Contribuire a progetti open source
-- Espandere le mie competenze in sviluppo web
-- Collaborare con team dinamici su progetti innovativi
+- 📧 Email: [gino-piscopo-@live.it](mailto:gino-piscopo-@live.it)
+- 💼 LinkedIn: [Luigi Piscopo](https://www.linkedin.com/in/luigi-piscopo-developer)
+- 🌐 GitHub: [@LuigiPiscopo](https://github.com/LuigiPiscopo)
+
+## 🌟 Progetti in Evidenza
+
+> Prossimamente...
 
 ---
-⭐️ From [LuigiPiscopo](https://github.com/LuigiPiscopo)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuigiPiscopo&color=blueviolet" alt="Profile views" />
+  
+  ### "Il codice è poesia in movimento" 💻✨
+</div>
