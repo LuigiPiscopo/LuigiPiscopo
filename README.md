@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Luigi Piscopo
@@ -19,18 +18,18 @@
 
 </div>
 
-## 👨‍💻 Chi Sono
+## 👨‍💻 About Me
 
-> Junior Full Stack Developer con una passione per la creazione di soluzioni software innovative ed efficienti. Mi distinguo per un approccio analitico al problem-solving e una costante ricerca dell'eccellenza tecnica.
+> Junior Full Stack Developer with a passion for creating innovative and efficient software solutions. I stand out for an analytical approach to problem-solving and a constant pursuit of technical excellence.
 
-- 🎓 Specializzando in **Coding AI** presso **Aulab Srl**
-- 🌱 In continuo apprendimento e crescita professionale
-- 🤝 Aperto a collaborazioni su progetti innovativi
-- 🎯 Obiettivo: Creare software che faccia la differenza
+- 🎓 Specializing in **Coding AI** at **Aulab Srl**
+- 🌱 Continuously learning and growing professionally
+- 🤝 Open to collaborations on innovative projects
+- 🎯 Goal: Create software that makes a difference
 
 ## 🛠️ Tech Stack
 
-### Linguaggi di Programmazione
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -40,7 +39,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-### Framework & Tecnologie
+### Frameworks & Technologies
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -52,7 +51,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 📊 Statistiche GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -62,7 +61,7 @@
   </div>
 </div>
 
-## 💼 Competenze Chiave
+## 💼 Key Skills
 
 ```python
 class LuigiPiscopo:
@@ -81,18 +80,18 @@ class LuigiPiscopo:
         }
     
     def current_focus(self):
-        return "Specializzazione in AI Development"
+        return "Specialization in AI Development"
 ```
 
-## 📫 Contattami
+## 📫 Contact Me
 
 - 📧 Email: [gino-piscopo-@live.it](mailto:gino-piscopo-@live.it)
 - 💼 LinkedIn: [Luigi Piscopo](https://www.linkedin.com/in/luigi-piscopo-developer)
 - 🌐 GitHub: [@LuigiPiscopo](https://github.com/LuigiPiscopo)
 
-## 🌟 Progetti in Evidenza
+## 🌟 Featured Projects
 
-> Prossimamente...
+> Coming soon...
 
 ---
 
@@ -101,5 +100,5 @@ class LuigiPiscopo:
     <img src="https://komarev.com/ghpvc/?username=LuigiPiscopo&style=for-the-badge&color=blueviolet" alt="Profile Views" height="30" />
   </a>
   
-  ### "Il codice è poesia in movimento" 💻✨
+  ### "Code is poetry in motion" 💻✨
 </div>
