@@ -97,7 +97,7 @@ class LuigiPiscopo:
 
 <div align="center">
   <a href="https://github.com/LuigiPiscopo">
-    <img src="https://komarev.com/ghpvc/?username=LuigiPiscopo&style=for-the-badge&color=blueviolet" alt="Profile Views" height="30" />
+    <img src="https://komarev.com/ghpvc/?username=LuigiPiscopo&style=for-the-badge&color=blueviolet" alt="Profile Views" height="60" />
   </a>
   
   ### "Code is poetry in motion" 💻✨
